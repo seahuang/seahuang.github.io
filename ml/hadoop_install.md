@@ -23,7 +23,7 @@ $ 表示hadoop用户
 ### 2.1 集群清单
 
 | ip  | hostname | 备注 |
-| --- |:-- -----:| -----------:|
+| --- |:-------:| -----------:|
 | ip1 | hadoop1  | master(主机) |
 | ip2 | hadoop2  | slave1(从机) |
 | ip3 | hadoop3  | slave2(从机) |
