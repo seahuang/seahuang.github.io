@@ -10,4 +10,4 @@
 
 ## nginx
 1. [如何安装nginx](./nginx/how_to_install_nginx.md) 2017-06-01
-2. [如何利用nginx搭建二维码生成服务](./nginx/nginx_qrencode.md) 2017-06-01
+2. [如何利用nginx搭建二维码生成服务](./nginx/nginx_qrencode.md) 2017-06-20
