@@ -61,6 +61,8 @@ CentOS Linux release 7.2.1511 (Core)
 #./configure
 #make && make install
 ```
+如果提示找不到libpng，需要设置PKG_CONFIG_PATH
+export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:$PKG_CONFIG_PATH
 
 3) 验证
 ```
