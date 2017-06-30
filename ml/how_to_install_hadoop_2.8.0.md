@@ -158,7 +158,7 @@ hadoop3
   </property>
   <property>
     <name>hadoop.tmp.dir</name>
-    <value>file:/usr/local/hadoop/tmp</value>
+    <value>/usr/local/hadoop/tmp</value>
   </property>
   <property>
     <name>hadoop.proxyuser.hadoop.hosts</name>
